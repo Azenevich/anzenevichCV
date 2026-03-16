@@ -74,3 +74,23 @@ footer{margin-top:2rem;text-align:center;color:var(--muted);font-size:0.9rem}
   #mainLeft{border-right:none;border-bottom:1px solid var(--hr);padding-bottom:1rem}
   #mainRight{padding-top:1rem}
 }
+
+/* ===== Additional mobile improvements ===== */
+
+@media (max-width: 600px){
+
+  body{
+    margin:1rem;
+    padding:0.5rem;
+    font-size:14px;
+  }
+
+  h1{
+    font-size:1.6rem;
+  }
+
+  main{
+    gap:1rem;
+  }
+
+}
