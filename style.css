@@ -74,14 +74,3 @@ footer{margin-top:2rem;text-align:center;color:var(--muted);font-size:0.9rem}
   #mainLeft{border-right:none;border-bottom:1px solid var(--hr);padding-bottom:1rem}
   #mainRight{padding-top:1rem}
 }
-
-/* ===== UX improvements ===== */
-section{
-  margin-bottom:1.5rem;
-}
-
-h2{
-  font-size:1.1rem;
-  letter-spacing:0.08em;
-  margin-bottom:0.4rem;
-}
